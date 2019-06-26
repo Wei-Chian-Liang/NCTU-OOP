@@ -1,0 +1,19 @@
+﻿Build started 2018/8/2 上午 12:06:14.
+     1>Project "D:\桌面\final_project\final_project\final_project\final_project.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "D:\桌面\final_project\final_project\Release\".
+       InitializeBuildStatus:
+         Creating "Release\final_project.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp page_base.cpp public_tool.cpp
+         main.cpp
+     1>d:\桌面\final_project\final_project\final_project\include.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+         page_base.cpp
+     1>d:\桌面\final_project\final_project\final_project\include.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+         public_tool.cpp
+     1>d:\桌面\final_project\final_project\final_project\include.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+     1>Done Building Project "D:\桌面\final_project\final_project\final_project\final_project.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.37
