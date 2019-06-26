@@ -1,0 +1,13 @@
+PUT
+n1 1 5
+PUT
+n2 2 5
+PUT
+n3 3 5
+PUT
+n4 4 5
+GET
+GET
+GET
+GET
+GET
